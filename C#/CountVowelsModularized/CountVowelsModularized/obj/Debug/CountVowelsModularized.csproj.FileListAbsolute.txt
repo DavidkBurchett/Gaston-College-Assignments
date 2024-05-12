@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\CountVowelsModularized\CountVowelsModularized\bin\Debug\CountVowelsModularized.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\CountVowelsModularized\CountVowelsModularized\bin\Debug\CountVowelsModularized.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\CountVowelsModularized\CountVowelsModularized\bin\Debug\CountVowelsModularized.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\CountVowelsModularized\CountVowelsModularized\obj\Debug\CountVowelsModularized.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\CountVowelsModularized\CountVowelsModularized\obj\Debug\CountVowelsModularized.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\CountVowelsModularized\CountVowelsModularized\obj\Debug\CountVowelsModularized.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\CountVowelsModularized\CountVowelsModularized\obj\Debug\CountVowelsModularized.pdb

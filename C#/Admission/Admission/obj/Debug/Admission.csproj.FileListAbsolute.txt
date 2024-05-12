@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\Admission\Admission\bin\Debug\Admission.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\Admission\Admission\bin\Debug\Admission.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\Admission\Admission\bin\Debug\Admission.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\Admission\Admission\obj\Debug\Admission.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\Admission\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\Admission\Admission\obj\Debug\Admission.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\Admission\Admission\obj\Debug\Admission.pdb

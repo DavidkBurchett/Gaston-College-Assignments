@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\InchesToCentmeters\InchesToCentmeters\bin\Debug\InchesToCentmeters.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\InchesToCentmeters\InchesToCentmeters\bin\Debug\InchesToCentmeters.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\InchesToCentmeters\InchesToCentmeters\bin\Debug\InchesToCentmeters.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\InchesToCentmeters\InchesToCentmeters\obj\Debug\InchesToCentmetersInteractive.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\InchesToCentmeters\InchesToCentmeters\obj\Debug\InchesToCentmetersInteractive.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\InchesToCentmeters\InchesToCentmeters\obj\Debug\InchesToCentmeters.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\InchesToCentmeters\InchesToCentmeters\obj\Debug\InchesToCentmeters.pdb

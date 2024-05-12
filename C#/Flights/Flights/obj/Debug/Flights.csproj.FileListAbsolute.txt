@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\Flights\Flights\bin\Debug\Flights.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\Flights\Flights\bin\Debug\Flights.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\Flights\Flights\bin\Debug\Flights.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\Flights\Flights\obj\Debug\Flights.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\Flights\Flights\obj\Debug\Flights.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\Flights\Flights\obj\Debug\Flights.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\Flights\Flights\obj\Debug\Flights.pdb

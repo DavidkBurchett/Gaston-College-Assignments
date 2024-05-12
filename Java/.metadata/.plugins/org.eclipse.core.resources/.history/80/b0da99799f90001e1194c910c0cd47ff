@@ -1,0 +1,8 @@
+package caseProblem8;
+
+//David Burchett
+//Case problem 9
+
+public class DinnerEvent extends Event{
+
+}

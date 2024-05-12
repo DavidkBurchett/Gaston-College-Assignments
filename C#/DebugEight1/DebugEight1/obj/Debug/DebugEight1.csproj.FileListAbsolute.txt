@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugEight1\DebugEight1\bin\Debug\DebugEight1.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugEight1\DebugEight1\bin\Debug\DebugEight1.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugEight1\DebugEight1\bin\Debug\DebugEight1.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugEight1\DebugEight1\obj\Debug\DebugEight1.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugEight1\DebugEight1\obj\Debug\DebugEight1.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugEight1\DebugEight1\obj\Debug\DebugEight1.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugEight1\DebugEight1\obj\Debug\DebugEight1.pdb

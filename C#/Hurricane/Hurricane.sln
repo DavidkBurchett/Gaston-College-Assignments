@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hurricane", "Hurricane\Hurricane.csproj", "{ABC50BC9-13DC-42D1-9937-E7B95097BA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC50BC9-13DC-42D1-9937-E7B95097BA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC50BC9-13DC-42D1-9937-E7B95097BA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC50BC9-13DC-42D1-9937-E7B95097BA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC50BC9-13DC-42D1-9937-E7B95097BA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE00794B-9EC2-41D0-8ED3-54C74D7A3A46}
+	EndGlobalSection
+EndGlobal

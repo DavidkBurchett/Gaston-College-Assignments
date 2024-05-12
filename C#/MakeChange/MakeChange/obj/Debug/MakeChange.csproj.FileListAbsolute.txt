@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\MakeChange\MakeChange\bin\Debug\MakeChange.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\MakeChange\MakeChange\bin\Debug\MakeChange.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\MakeChange\MakeChange\bin\Debug\MakeChange.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\MakeChange\MakeChange\obj\Debug\MakeChange.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\MakeChange\MakeChange\obj\Debug\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\MakeChange\MakeChange\obj\Debug\MakeChange.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\MakeChange\MakeChange\obj\Debug\MakeChange.pdb

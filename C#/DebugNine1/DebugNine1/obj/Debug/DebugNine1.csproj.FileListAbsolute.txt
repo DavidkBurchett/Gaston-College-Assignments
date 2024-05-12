@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugNine1\DebugNine1\bin\Debug\DebugNine1.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugNine1\DebugNine1\bin\Debug\DebugNine1.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugNine1\DebugNine1\bin\Debug\DebugNine1.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugNine1\DebugNine1\obj\Debug\DebugNine1.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugNine1\DebugNine1\obj\Debug\DebugNine1.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugNine1\DebugNine1\obj\Debug\DebugNine1.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\DebugNine1\DebugNine1\obj\Debug\DebugNine1.pdb

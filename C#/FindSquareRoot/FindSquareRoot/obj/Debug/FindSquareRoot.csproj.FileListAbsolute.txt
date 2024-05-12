@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.pdb

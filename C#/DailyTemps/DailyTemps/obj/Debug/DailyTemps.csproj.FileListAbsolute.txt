@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\DailyTemps\DailyTemps\bin\Debug\DailyTemps.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\DailyTemps\DailyTemps\bin\Debug\DailyTemps.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\DailyTemps\DailyTemps\bin\Debug\DailyTemps.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\DailyTemps\DailyTemps\obj\Debug\DailyTemps.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\DailyTemps\DailyTemps\obj\Debug\DailyTemps.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\DailyTemps\DailyTemps\obj\Debug\DailyTemps.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\DailyTemps\DailyTemps\obj\Debug\DailyTemps.pdb

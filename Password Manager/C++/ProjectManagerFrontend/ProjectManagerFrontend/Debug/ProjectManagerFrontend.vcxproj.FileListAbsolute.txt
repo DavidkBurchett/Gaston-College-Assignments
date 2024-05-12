@@ -1,0 +1,3 @@
+C:\Users\Zu98\OneDrive - Gaston College\Password Manager\C++\ProjectManagerFrontend\ProjectManagerFrontend\Debug\ProjectManagerFrontend.vcxproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\Password Manager\C++\ProjectManagerFrontend\ProjectManagerFrontend\Debug\ProjectManagerFrontend.MyForm.resources
+C:\Users\Zu98\OneDrive - Gaston College\Password Manager\C++\ProjectManagerFrontend\ProjectManagerFrontend\Debug\ProjectManagerFrontend.vcxproj.GenerateResource.cache

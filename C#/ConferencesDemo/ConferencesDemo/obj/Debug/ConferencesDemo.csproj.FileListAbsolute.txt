@@ -1,0 +1,7 @@
+C:\Users\Zu98\source\repos\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.csproj.AssemblyReference.cache
+C:\Users\Zu98\source\repos\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\source\repos\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.exe.config
+C:\Users\Zu98\source\repos\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.exe
+C:\Users\Zu98\source\repos\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.pdb
+C:\Users\Zu98\source\repos\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.exe
+C:\Users\Zu98\source\repos\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\GuessingGame2\GuessingGame2\bin\Debug\GuessingGame2.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\GuessingGame2\GuessingGame2\bin\Debug\GuessingGame2.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\GuessingGame2\GuessingGame2\bin\Debug\GuessingGame2.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\GuessingGame2\GuessingGame2\obj\Debug\GuessingGame2.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\GuessingGame2\GuessingGame2\obj\Debug\GuessingGame2.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\GuessingGame2\GuessingGame2\obj\Debug\GuessingGame2.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\GuessingGame2\GuessingGame2\obj\Debug\GuessingGame2.pdb

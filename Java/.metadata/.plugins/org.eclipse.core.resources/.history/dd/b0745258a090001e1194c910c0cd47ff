@@ -1,0 +1,22 @@
+package caseProblem8;
+
+//David Burchett
+//Case problem 9
+
+public class DinnerEvent extends Event{
+	public final static String[] ENTREES = {"beef", "chicken", "fish", "pasta"};
+	public final static String[] SIDES = {"salad", "mixed vegetables", "baked potato", "garlic bread", "dinner roll"};
+	public final static String[] DESSERTS = {"chocolate cake", "apple pie", "butterscotch pudding"};
+	
+	private int entreeChoice, sideChoice1, sideChoice2, dessertChoice;
+	
+	public DinnerEvent(String num, int guests, int choice1, int choice2, int choice3, int choice4) {
+		super(num, guests);
+		if(choice1 < ENTREES.length) {
+			entreeChoice = choice1;
+		}
+			else {
+				entreeChoice = 0;
+			}
+	}
+}

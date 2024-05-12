@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ticket Vault</string>
+    <string-array name="concerts_array">
+        <item>"Fleetwood Mac"</item>
+        <item>"Billy Joel"</item>
+        <item>"Adele"</item>
+        <item>"Queen"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\MoveEstimator\MoveEstimator\bin\Debug\MoveEstimator.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\MoveEstimator\MoveEstimator\bin\Debug\MoveEstimator.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\MoveEstimator\MoveEstimator\bin\Debug\MoveEstimator.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zu98\OneDrive - Gaston College\C#\PaintintDemo\PaintintDemo\bin\Debug\PaintintDemo.exe.config
+C:\Users\Zu98\OneDrive - Gaston College\C#\PaintintDemo\PaintintDemo\bin\Debug\PaintintDemo.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\PaintintDemo\PaintintDemo\bin\Debug\PaintintDemo.pdb
+C:\Users\Zu98\OneDrive - Gaston College\C#\PaintintDemo\PaintintDemo\obj\Debug\PaintintDemo.csproj.AssemblyReference.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\PaintintDemo\PaintintDemo\obj\Debug\PaintintDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zu98\OneDrive - Gaston College\C#\PaintintDemo\PaintintDemo\obj\Debug\PaintintDemo.exe
+C:\Users\Zu98\OneDrive - Gaston College\C#\PaintintDemo\PaintintDemo\obj\Debug\PaintintDemo.pdb
